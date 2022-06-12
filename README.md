@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A data scientist and MSc in water resources and environmental sanitation</h3>
 
-<!--
-**danielbrito91/danielbrito91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/_danielbrito_" target="blank"><img src="https://img.shields.io/twitter/follow/_danielbrito_?logo=twitter&style=for-the-badge" alt="_danielbrito_" /></a> </p>
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **data science projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/danielbrito91/data_science_portfolio](https://github.com/danielbrito91/data_science_portfolio)
+
+- 📝 I (not so regularly) write articles on [https://danielbrito.me/](https://danielbrito.me/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/danielbrito91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danielbrito91" height="30" width="40" /></a>
+<a href="https://twitter.com/_danielbrito_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_danielbrito_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danieloliveiradebrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danieloliveiradebrito" height="30" width="40" /></a>
+<a href="https://kaggle.com/danielbrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="danielbrito" height="30" width="40" /></a>
+<a href="https://instagram.com/danieloliveiradebrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danieloliveiradebrito" height="30" width="40" /></a>
+<a href="https://medium.com/@danieloliveiradebrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danieloliveiradebrito" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@danieloliveirad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@danieloliveirad1" height="30" width="40" /></a>
+</p>
