@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielbrito91/data_science_portfolio](https://github.com/danielbrito91/data_science_portfolio)
 
-- 📝 I (not so regularly) write articles on [https://danielbrito.me/](https://danielbrito.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
