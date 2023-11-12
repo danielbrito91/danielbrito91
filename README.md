@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **data science projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danielbrito91/data_science_portfolio](https://github.com/danielbrito91/data_science_portfolio)
+- 👨‍💻 My personal projects are available at [https://danielbrito91.github.io/](https://danielbrito91.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
