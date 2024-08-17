@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/_danielbrito_" target="blank"><img src="https://img.shields.io/twitter/follow/_danielbrito_?logo=twitter&style=for-the-badge" alt="_danielbrito_" /></a> </p>
 
-- 👯 I’m looking to collaborate on **data science projects**
-
-- 👨‍💻 My personal projects are available at [https://danielbrito91.github.io/](https://danielbrito91.github.io/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
